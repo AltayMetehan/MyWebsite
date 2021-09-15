@@ -1,0 +1,28 @@
+.title{
+    color:antiquewhite;
+	text-align: center;
+	font-size: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	height: 100px;
+}
+
+#writing{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 100px;
+}
+
+#writingGray{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 100px;
+}
+
+#me{
+    max-height: 500px;
+    max-width: 500px;
+    float: right;
+}
